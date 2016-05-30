@@ -1,2 +1,2 @@
 # cableatierra
-Material del seminario de cable a tierra. 
+Material del seminario cable a tierra. 
